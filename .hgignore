@@ -1,0 +1,9 @@
+syntax: glob
+*~
+build/
+dist/
+*.pyc
+*.swp
+virtualenv/
+
+syntax: regexp
